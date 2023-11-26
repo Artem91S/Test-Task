@@ -1,6 +1,6 @@
 "use client";
 import { useState } from "react";
-import Skills from "./Skills";
+import Skills from "../../ui/components/Skills/Skills";
 import {
   tradeData,
   showdownsData,
